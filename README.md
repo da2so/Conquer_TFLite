@@ -25,6 +25,6 @@ python 1_keras2TFLite.py
 
 ## Reference blog
 
-:white_check_mark: Check my blog!!
-[TFLite 뽀개기 (1) - TFLite 기본 이해 및 사용하기](https://da2so.github.io/2020-12-23-Master_TFlite/)
-[TFLite 뽀개기 (2) - TFLite Inference](https://da2so.github.io/2020-12-24-Master_TFlite2/)
+:white_check_mark: Check my blog!!  
+[TFLite 뽀개기 (1) - TFLite 기본 이해 및 사용하기](https://da2so.github.io/2020-12-23-Master_TFlite/)  
+[TFLite 뽀개기 (2) - TFLite Inference](https://da2so.github.io/2020-12-24-Master_TFlite2/)  
