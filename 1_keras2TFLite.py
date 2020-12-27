@@ -12,7 +12,6 @@ def keras2TFlite(model_path):
 
     #convert to tflite model
     converter = tf.lite.TFLiteConverter.from_keras_model(keras_model)
-    converter.target_spec.supported_types = [tf.float16]
     tflite_model = converter.convert()
 
     #save tflite model
